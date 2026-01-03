@@ -7,7 +7,6 @@ A monorepo containing multiple projects and technical exercises.
 Each folder in this repository represents a separate project or task:
 
 - **factorySpace/** - Robot Control Interface with Gemini AI integration
-- (Add more projects here as they are added)
 
 ## Getting Started
 
