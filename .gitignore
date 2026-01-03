@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+*.local
+
+# Environment variables - CRITICAL: Never commit these!
+.env
+.env.local
+.env.production.local
+.env.development.local
+.env.test
+.env*.local
+
+# API Keys and Secrets - Extra protection
+*.key
+*.pem
+*.p12
+*.p8
+secrets.json
+config.json
+credentials.json
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+.cache
+
+# Claude AI files
+.claude/
+
